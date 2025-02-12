@@ -10,7 +10,7 @@ Ben bir endüstri meslek lisesi bilişim bölümü öğrencisiyim ve kendimi yaz
 ![GIF öylesine](https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg)
 
 ## Github Bilgileri
-- 📊 **Diller**:  C#/PYTHON
+- 📊 **Diller**:  C#/PYTHON/C
 ## Bana Ulaşın
 Herhangi bir sorunuz veya öneriniz varsa bana ulaşabilirsiniz. 
 
