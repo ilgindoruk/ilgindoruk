@@ -7,7 +7,10 @@ Ben bir endüstri meslek lisesi bilişim bölümü öğrencisiyim ve kendimi yaz
 - 🌱 **Öğrenmekte olduğum şeyler**: C#
 - 💬 **Bana her zaman sorabilirsiniz**: Yazılım geliştirme, web teknolojileri, veri analitiği
 
+  
+![GIF öylesine](https://camo.githubusercontent.com/eb44e3df8612d41a65ad5806bc8615a85e092f0403cef0477e8f47955ab12578/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966)
 ![GIF öylesine](https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg)
+
 
 ## Github Bilgileri
 - 📊 **Diller**:  C#/PYTHON/C
