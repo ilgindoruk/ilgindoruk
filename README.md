@@ -18,4 +18,4 @@ Herhangi bir sorunuz veya öneriniz varsa bana ulaşabilirsiniz.
 - **Email**: [github2150@gmail.com]
 
 -------------------------
-Profilime hoş geldiniz! 😊
+https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg
