@@ -11,7 +11,7 @@ Ben bir endüstri meslek lisesi bilişim bölümü öğrencisiyim ve kendimi yaz
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## Github Bilgileri
-- 📊 **Diller**: ![Languages] C#/PYTHON
+- 📊 **Diller**:  C#/PYTHON
 ## Bana Ulaşın
 Herhangi bir sorunuz veya öneriniz varsa bana ulaşabilirsiniz. 
 
