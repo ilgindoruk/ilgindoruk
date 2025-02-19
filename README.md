@@ -3,7 +3,7 @@
 ## Hakkımda
 Ben bir endüstri meslek lisesi bilişim bölümü öğrencisiyim ve kendimi yazılım alanında geliştirmeyi hedefliyorum. Yeni teknolojileri keşfetmek ve projeler üretmek benim için büyük bir tutku.
 
-- 🎓 **Eğitim**: Endüstri Meslek Lisesi, Bilişim Bölümü
+- 🎓 **Eğitim**: Endüstri Meslek Lisesi, Bilişim Bölümü                                                                   ![GIF öylesine](https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif?raw=true)
 - 🌱 **Öğrenmekte olduğum şeyler**: C#
 - 💬 **Bana her zaman sorabilirsiniz**: Yazılım geliştirme, web teknolojileri, veri analitiği
 
